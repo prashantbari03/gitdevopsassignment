@@ -1,7 +1,7 @@
 This is First Commit
-
+<<<<<<< HEAD
 
 This is Feature 1
-
+=======
 This is Feature 2
-
+>>>>>>> f2
